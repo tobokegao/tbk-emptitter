@@ -88,6 +88,11 @@ div.css-901oao.r-9ilb82.r-1wbh5a2.r-1tl8opc.r-1enofrn.r-16dba41.r-1f529hi.r-97wb
 
 }
 
+div.css-901oao.css-bfa6kz.r-9ilb82.r-1tl8opc.r-1b43r93.r-16dba41.r-hjklzo.r-bcqeeo.r-qvutc0 {
+  display: none;
+
+}
+
 /*====================== プロモーションボタンを消す ======================*/
 a.css-4rbku5.css-18t94o4.css-1dbjc4n.r-1niwhzg.r-sdzlij.r-1phboty.r-rs99b7.r-1loqt21.r-a1ub67.r-1ii58gl.r-25kp3t.r-1ny4l3l.r-1j3t67a.r-o7ynqc.r-6416eg.r-lrvibr {
   display: none;
