@@ -22,12 +22,12 @@ span.css-901oao.css-16my406.r-1tl8opc.r-bcqeeo.r-qvutc0 {
 }
 
 /*a.css-4rbku5.css-18t94o4.css-901oao.css-16my406.r-1cvl2hr.r-1loqt21.r-poiln3.r-bcqeeo.r-qvutc0 {
-  display: none
+  display: none;
 
 }*/
 
 /*a.css-4rbku5.css-18t94o4.css-901oao.css-16my406.r-1loqt21.r-poiln3.r-bcqeeo.r-qvutc0 {
-  display: none
+  display: none;
 
 }*/
 
@@ -55,17 +55,17 @@ div.twDisplayVicinity_React-recent-retweets-button {
   display: none;
 }
 div.twDisplayVicinity_React-recent-retweets-button {
-  display: none
+  display: none;
 
 }
 
 div.css-901oao.css-bfa6kz.r-9ilb82.r-1tl8opc.r-1enofrn.r-16dba41.r-1f529hi.r-bcqeeo.r-qvutc0 {
-  display: none
+  display: none;
 
 }
 
 div.public-DraftEditorPlaceholder-inner {
-  display: none
+  display: none;
 
 }
 
@@ -74,7 +74,12 @@ input.r-30o5oe.r-1niwhzg.r-17gur6a.r-1yadl64.r-deolkf.r-homxoj.r-poiln3.r-7cikom
 }
 
 span.css-901oao.css-16my406.r-xoduu5.r-18u37iz.r-1q142lx.r-1tl8opc.r-1i10wst.r-hbpseb.r-bcqeeo.r-qvutc0 {
-  display: none
+  display: none;
+
+}
+
+div.css-901oao.css-bfa6kz.r-9ilb82.r-1tl8opc.r-1b43r93.r-16dba41.r-14yzgew.r-bcqeeo.r-qvutc0 {
+  display: none;
 
 }
 
@@ -85,12 +90,12 @@ div.css-901oao.r-9ilb82.r-1wbh5a2.r-1tl8opc.r-1enofrn.r-16dba41.r-1f529hi.r-97wb
 
 /*====================== プロモーションボタンを消す ======================*/
 a.css-4rbku5.css-18t94o4.css-1dbjc4n.r-1niwhzg.r-sdzlij.r-1phboty.r-rs99b7.r-1loqt21.r-a1ub67.r-1ii58gl.r-25kp3t.r-1ny4l3l.r-1j3t67a.r-o7ynqc.r-6416eg.r-lrvibr {
-  display: none
+  display: none;
 
 }
 
 a.css-4rbku5.css-18t94o4.css-1dbjc4n.r-42olwf.r-sdzlij.r-1phboty.r-rs99b7.r-1loqt21.r-c8eef1.r-1ii58gl.r-25kp3t.r-1ny4l3l.r-1j3t67a.r-o7ynqc.r-6416eg.r-lrvibr {
-  display: none
+  display: none;
 
 }
 
@@ -109,13 +114,13 @@ div.css-1dbjc4n.r-1niwhzg.r-1kqtdi0.r-1867qdf.r-1phboty.r-1yadl64.r-1cad53l.r-1u
 
 /* スペース内の文字を消す */
 div.css-1dbjc4n.r-6koalj.r-1wbh5a2 {
-  display: none
+  display: none;
 
 }
 
 /*====================== プッシュ通知の確認を消す ======================*/
 div.css-1dbjc4n.r-1q0zpk3 {
-  display: none
+  display: none;
 
 }
 
@@ -275,4 +280,3 @@ div.css-1dbjc4n.r-173mn98.r-kemksi.r-c67a83.r-1qk6wnv.r-qo02w8.r-12e0a8i.r-hvns9
 div.css-1dbjc4n.r-obd0qt.r-18u37iz.r-1w6e6rj.r-1h0z5md.r-dnmrzs {
   display: none;
     }
-
